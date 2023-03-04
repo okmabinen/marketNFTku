@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "32K6a37Rhu6orFAUQCDu7cqtEs3qbz3MSsGfShaAbe8z"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_99pArbexGyIvl0vhxPmTLAXpBeZB1d74WqK",
+  "serviceFee": 4.22,
+  "currencyOption": "USDC",
+  "name": "Nisamarket Portal",
+  "logo": "https://collections.mirrorworld.fun/1677895923296-Banner.jpg"
 }
